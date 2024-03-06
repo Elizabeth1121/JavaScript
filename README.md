@@ -1,4 +1,4 @@
-## Javascript Projects
+# Javascript Projects
 
-# updates
+## updates
   - Completed the calculator project 3/6/24
